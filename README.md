@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit jaiswal</h1>
 <h3 align="center">A passionate full stack web development</h3>
 
-<img aligbn="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img aligbn="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitjaiswal0704&label=Profile%20views&color=0e75b6&style=flat" alt="rohitjaiswal0704" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohitjaiswal0704](https://github.com/Rohitjaiswal0704)
 
-- 💬 Ask me about **html5, css3, javascript,node.js, express.js, mongodb,react.js,gsap,**
+- 💬 Ask me about **HTML5, CSS3, Javascript, Node.js, Express.js, Mongodb, React.js, Gsap,**
 
 - 📫 How to reach me **rohitjaiswal0704@gmail.com**
 
