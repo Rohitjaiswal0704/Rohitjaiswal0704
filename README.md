@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohitjaiswal0704?tab=repositories](https://github.com/Rohitjaiswal0704?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Rohitjaiswal0704](https://github.com/Rohitjaiswal0704)
 
 - 💬 Ask me about **html5, css3, javascript,node.js, express.js, mongodb,react.js,gsap,**
 
