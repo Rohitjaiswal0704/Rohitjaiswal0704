@@ -1,4 +1,4 @@
-[![MasterHead](https://developerguru.in/data1/images/mern-stack.png)]
+![MasterHead](https://developerguru.in/data1/images/mern-stack.png)
 <h1 align="center">Hi 👋, I'm Rohit jaiswal</h1>
 <h3 align="center">A passionate full stack web development</h3>
 
