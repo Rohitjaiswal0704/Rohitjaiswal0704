@@ -1,3 +1,4 @@
+[![MasterHead](https://developerguru.in/data1/images/mern-stack.png)]
 <h1 align="center">Hi 👋, I'm Rohit jaiswal</h1>
 <h3 align="center">A passionate full stack web development</h3>
 
@@ -34,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitjaiswal0704&show_icons=true&locale=en" alt="rohitjaiswal0704" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjaiswal0704&" alt="rohitjaiswal0704" /></p>
-
