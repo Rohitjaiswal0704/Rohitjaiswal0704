@@ -1,4 +1,4 @@
-![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)
+![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)
 
 <h1 align="center">Hi 👋, I'm Rohit jaiswal</h1>
 <h3 align="center">A passionate full stack web development</h3>
